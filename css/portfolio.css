@@ -1,0 +1,446 @@
+             
+
+
+
+
+
+.port-titles {
+   margin-bottom: 8vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.port-texs {
+   color: black;
+   margin-bottom: 2vw;
+   font-size: 3vw;
+}
+
+.port-icon {
+   width: 2vw;
+}
+
+
+
+
+.port1c {
+ max-width: 100%;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ margin-bottom: 0.8vw;
+}
+
+.port2c {
+ max-width: 100%;
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ margin-top: 0.8vw;
+
+}
+
+
+.portfolio-par {
+    margin-top: 15vw;
+    margin-bottom: 20vw;
+}
+
+
+.port-img {
+   width: 100%;
+   transform: scale(1.2);
+    animation-name: ss-s;
+    animation-delay: 2s;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+ 
+}
+
+.port-imgb {
+   position: absolute;
+   top: 0;
+   transform: scale(1.0);
+   width: 100%;
+      animation-name: ss;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+}
+
+.port-imgb2 {
+   transform: scale(1.0);
+   width: 100%;
+      animation-name: ss;
+      animation-delay: 3s;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+}
+
+
+
+
+.big-i {
+   position: relative;
+   width: 39.3%;
+   height: 25vw;
+   display: inline-block;
+   overflow: hidden;
+}
+
+.opaq {
+   display: none;
+   z-index: 3;
+   background-color: rgba(85, 215, 235, 0.40);
+   position: absolute;
+   top: 0;
+      width: 100%;
+   height: 25vw;
+   overflow: hidden;
+}
+
+.big-i:hover .opaq {
+    display: inline-block;
+}
+
+.small-i:hover .opaq {
+    display: inline-block;
+}
+
+@keyframes ss {
+  0%   {transform: scale(1.0);}
+  25%   {transform: scale(1.05);}
+  50%  {transform: scale(1.05);}
+  100% {transform: scale(1.0);}
+}
+
+@keyframes ss-s {
+  0%   {transform: scale(1.2);}
+  25%   {transform: scale(1.27);}
+  50%  {transform: scale(1.27);}
+  100% {transform: scale(1.2);}
+}
+
+
+.small-i {
+   position: relative;
+   width: 19%;
+   height: 25vw;
+   display: inline-block;
+   overflow: hidden;
+}
+
+
+
+
+
+.port2-imgb {
+   transform: scale(1.0);
+      width: 100%;
+      animation-name: ss;
+      animation-delay: 5s;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+
+
+}
+
+.port2-img {
+   width: 100%;
+   transform: scale(1.2);
+      animation-name: ss-s;
+      animation-delay: 3s;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+
+
+}
+
+.inline-contm {
+   display: none;
+}
+
+.portfolio-mobile {
+   display: none;
+}
+   
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1008px) {
+
+
+
+   .port-titles {
+   margin-bottom: 15vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.port-texs {
+   color: black;
+   margin-bottom: 3.2vw;
+   font-size: 4.5vw;
+}
+
+.port-icon {
+   width: 3.5vw;
+}
+
+
+
+.portfolio-mobile {
+   margin-top: 25vw;
+   margin-bottom:25vw;
+   display: inline-block;
+}
+
+.portfolio-par {
+ display: none;
+}
+
+
+
+.inline-contm {
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 2vw;
+}
+
+    
+.big-im {
+   position: relative;
+   width: 100%;
+   height: 60vw;
+   display: block;
+   overflow: hidden;
+   margin-bottom: 2vw;
+}
+
+.opaqm {
+   display: none;
+   z-index: 3;
+   background-color: rgba(85, 215, 235, 0.40);
+   position: absolute;
+   top: 0;
+      width: 100%;
+   height: 70vw;
+   overflow: hidden;
+}
+
+.big-im:hover .opaqm {
+    display: inline-block;
+}
+
+.small-im:hover .opaqm {
+    display: inline-block;
+}
+
+
+
+
+
+.small-im {
+   position: relative;
+   width: 49%;
+   height: 70vw;
+   display: inline-block;
+   overflow: hidden;
+}
+
+
+
+
+
+
+
+
+.port-imgm {
+   width: 100%;
+   transform: scale(1.2);
+    animation-name: ss-s;
+    animation-delay: 2s;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+ 
+}
+
+
+.port-imgm {
+   width: 100%;
+   transform: scale(1.2);
+    animation-name: ss-s;
+    animation-delay: 2s;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+ 
+}  
+
+
+
+.port-imgmt {
+   width: 100%;
+   transform: scale(1.2);
+    animation-name: ss-s;
+    animation-delay: 3s;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+ 
+}  
+
+
+
+.port-imgbm {
+   position: absolute;
+   top: 0;
+   transform: scale(1.0);
+   width: 100%;
+      animation-name: ss;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+}
+
+
+.port-imgbmt {
+   position: absolute;
+   top: 0;
+   transform: scale(1.0);
+   width: 100%;
+      animation-name: ss;
+      animation-delay: 1.5s;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+}
+
+         
+
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 510px) {
+
+
+
+   .port-titles {
+   margin-bottom: 40vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.port-texs {
+   color: black;
+   margin-bottom: 4vw;
+   font-size: 7.5vw;
+}
+
+.port-icon {
+   width: 5.5vw;
+}
+
+
+
+.portfolio-mobile {
+   margin-top: 25vw;
+   margin-bottom:25vw;
+   display: inline-block;
+}
+
+.portfolio-par {
+ display: none;
+}
+
+
+
+.inline-contm {
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 2vw;
+}
+
+    
+.big-im {
+   position: relative;
+   width: 100%;
+   height: 60vw;
+   display: block;
+   overflow: hidden;
+   margin-bottom: 2vw;
+}
+
+.opaqm {
+   display: none;
+   z-index: 3;
+   background-color: rgba(85, 215, 235, 0.40);
+   position: absolute;
+   top: 0;
+      width: 100%;
+   height: 70vw;
+   overflow: hidden;
+}
+
+.big-im:hover .opaqm {
+    display: inline-block;
+}
+
+.small-im:hover .opaqm {
+    display: inline-block;
+}
+
+
+
+
+
+.small-im {
+   position: relative;
+   width: 49%;
+   height: 70vw;
+   display: inline-block;
+   overflow: hidden;
+}
+
+
+
+
+
+.port-imgm {
+   width: 100%;
+   transform: scale(1.2);
+    animation-name: ss-s;
+    animation-delay: 2s;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+ 
+}
+
+.port-imgbm {
+   position: absolute;
+   top: 0;
+   transform: scale(1.0);
+   width: 100%;
+      animation-name: ss;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+}
+
+         
+
+
+}
+
+
+
+

@@ -1,0 +1,325 @@
+
+
+footer {
+	display: block;
+}
+
+.footer-c {
+	padding-top: 3vw;
+	width: 100%;
+	height: 24vw;
+	background-color: black;
+	box-sizing: border-box;
+	position: relative;
+
+
+}
+
+.logofp{
+	display: flex;
+	justify-content: center;
+}
+
+.logof {
+	padding-top: 0.7vw;
+	position: absolute;
+   width: 15vw;
+	height: 8vw;
+	display: inline-block;
+}
+
+.img-hf {
+	margin-right: -0.7vw;
+	display: inline-block;
+	width: 33%;
+	vertical-align: middle;
+}
+
+
+.logo-titlef {
+	margin-top: 0.6vw;
+	vertical-align: middle;
+	display: inline-block;
+	color: white;
+	font-size: 4vw;
+	font-family: poppins;
+}
+
+
+.iconf {
+	margin-left: 0.5vw;
+	margin-right: 0.5vw;
+	display: flex;
+	justify-content: center;
+	height: 2.5vw;
+	width: 2.5vw;
+	box-sizing: border-box;
+	background-color: #252525;
+	border-radius:0.2vw;
+}
+
+.iconf:hover {
+	display: flex;
+	justify-content: center;
+	height: 2.5vw;
+	width: 2.5vw;
+	box-sizing: border-box;
+	background-color: #1d8aab;
+	border-radius:0.2vw;
+}
+
+.iconff {
+	width: 1.5vw;
+	height: 1.5vw;
+	padding-top: 0.6vw;
+}
+
+.iconfooter {
+   display: inline-block;
+}
+
+.all-icons-footer {
+	margin-bottom: 1vw;
+	margin-top: 10%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.copy {
+	color: white;
+	margin-top: 3vw;
+	font-size: 1.3vw;
+
+}
+
+.copy-par {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+
+
+
+@media only screen and (max-width: 1008px) {
+ 
+
+    
+
+
+footer {
+	display: block;
+}
+
+.footer-c {
+	padding-top: 3vw;
+	width: 100%;
+	height: 24vw;
+	background-color: black;
+	box-sizing: border-box;
+	position: relative;
+
+
+}
+
+.logofp{
+	display: flex;
+	justify-content: center;
+}
+
+.logof {
+	padding-top: 0.7vw;
+	position: absolute;
+   width: 15vw;
+	height: 8vw;
+	display: inline-block;
+}
+
+.img-hf {
+	margin-right: -0.7vw;
+	display: inline-block;
+	width: 33%;
+	vertical-align: middle;
+}
+
+
+.logo-titlef {
+	margin-top: 0.6vw;
+	vertical-align: middle;
+	display: inline-block;
+	color: white;
+	font-size: 4vw;
+	font-family: poppins;
+}
+
+
+.iconf {
+	margin-left: 0.5vw;
+	margin-right: 0.5vw;
+	display: flex;
+	justify-content: center;
+	height: 4.5vw;
+	width: 4.5vw;
+	box-sizing: border-box;
+	background-color: #252525;
+	border-radius:0.3vw;
+}
+
+.iconf:hover {
+	display: flex;
+	justify-content: center;
+	height: 4.5vw;
+	width: 4.5vw;
+	box-sizing: border-box;
+	background-color: #1d8aab;
+	border-radius:0.6vw;
+}
+
+.iconff {
+	width: 3.3vw;
+	height: 3.3vw;
+	padding-top: 0.7vw;
+}
+
+.iconfooter {
+   display: inline-block;
+}
+
+.all-icons-footer {
+	margin-bottom: 1vw;
+	margin-top: 10%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.copy {
+	color: white;
+	margin-top: 3vw;
+	font-size: 1.3vw;
+
+}
+
+.copy-par {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 510px) {
+ 
+
+    
+
+
+
+footer {
+	display: block;
+}
+
+.footer-c {
+	padding-top: 12vw;
+	width: 100%;
+	height: 55vw;
+	background-color: black;
+	box-sizing: border-box;
+	position: relative;
+
+
+}
+
+.logofp{
+	display: flex;
+	justify-content: center;
+}
+
+.logof {
+	padding-top: 0.7vw;
+	position: absolute;
+   width: 30vw;
+	height: 11vw;
+	display: inline-block;
+}
+
+.img-hf {
+	margin-right: -0.7vw;
+	display: inline-block;
+	width: 30%;
+	vertical-align: middle;
+}
+
+
+.logo-titlef {
+	margin-top: 0.6vw;
+	vertical-align: middle;
+	display: inline-block;
+	color: white;
+	font-size: 8vw;
+	font-family: poppins;
+}
+
+
+.iconf {
+	margin-left: 0.5vw;
+	margin-right: 0.5vw;
+	display: flex;
+	justify-content: center;
+	height: 8vw;
+	width: 8vw;
+	box-sizing: border-box;
+	background-color: #252525;
+	border-radius:0.7vw;
+}
+
+.iconf:hover {
+	display: flex;
+	justify-content: center;
+	height: 8vw;
+	width: 8vw;
+	box-sizing: border-box;
+	background-color: #1d8aab;
+	border-radius:0.7vw;
+}
+
+.iconff {
+	width: 6vw;
+	height: 6vw;
+	padding-top: 1vw;
+}
+
+.iconfooter {
+   display: inline-block;
+}
+
+.all-icons-footer {
+	margin-bottom: 1vw;
+	margin-top: 15%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.copy {
+	color: white;
+	margin-top: 3vw;
+	font-size: 2.3vw;
+
+}
+
+.copy-par {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+
+
+}

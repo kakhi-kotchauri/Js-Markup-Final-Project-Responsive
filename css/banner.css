@@ -1,0 +1,297 @@
+
+.arrow-parrent1 {
+	width: 100%;
+	height: 42vw;
+	position: absolute;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+
+.arrow-parrent2 {
+	width: 100%;
+	height: 42vw;
+	position: absolute;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.baner1-cont {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.arrow1 {
+	width: 3.5%;
+	height: 5.5vw;
+	z-index: 2;
+}
+
+
+.baner1 {
+	width: 100%;
+}
+
+.ban1-title {
+	color: white;
+	font-family: Poppins;
+	position: absolute;
+	top: 10vw;
+	font-size: 4vw;
+	font-weight: 100;
+}
+
+.ban1-title2 {
+	color: white;
+	font-weight: 600;
+	font-family: Poppins;
+	position: absolute;
+	top: 17vw;
+	font-size: 5vw;
+}
+
+.ban1-para {
+	color: white;
+	font-weight: 900;
+	font-family: Poppins;
+	position: absolute;
+	top: 23vw;
+	font-size: 1.3vw;
+}
+
+.read {
+		position: absolute;
+	top: 29vw;
+}
+
+.read-more0{
+	color: white;
+	text-align: center;
+	padding-top: 0.8vw;
+	font-size: 1.5vw;
+	box-sizing: border-box;
+	height: 3.2vw;
+	width: 10vw;
+	border: solid;
+	border-width: 0.1vw;
+	border-color: white;
+	outline: #3ab6b2 solid 0.2vw ;
+	background-color: #3ab6b2;
+}
+
+
+.baner2 {
+	display: none;
+	width: 100%;
+}
+
+
+@media only screen and (max-width: 1008px) {
+
+
+
+       
+.arrow-parrent1 {
+	width: 100%;
+	height: 42vw;
+	position: absolute;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+
+.arrow-parrent2 {
+	width: 100%;
+	height: 42vw;
+	position: absolute;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.baner1-cont {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.arrow1 {
+	display: none;
+	width: 3.5%;
+	height: 5.5vw;
+	z-index: 2;
+}
+
+
+.baner1 {
+	display: none;
+	width: 100%;
+}
+
+.baner2 {
+	display: block;
+	width: 100%;
+}
+
+.ban1-title {
+	color: white;
+	font-family: Poppins;
+	position: absolute;
+	top: 24vw;
+	font-size: 6vw;
+	font-weight: 100;
+}
+
+.ban1-title2 {
+	color: white;
+	font-weight: 600;
+	font-family: Poppins;
+	position: absolute;
+	top: 35vw;
+	font-size: 7vw;
+}
+
+.ban1-para {
+	color: #ffffffa4;
+	font-weight: 900;
+	font-family: Poppins;
+	position: absolute;
+	top: 43vw;
+	font-size: 2vw;
+}
+
+.read {
+		position: absolute;
+	top: 48vw;
+}
+
+.read-more0{
+	color: white;
+	text-align: center;
+	padding-top: 1.2vw;
+	font-size: 1.6vw;
+	box-sizing: border-box;
+	height: 4vw;
+	width: 13vw;
+	border: solid;
+	border-width: 0.1vw;
+	border-color: white;
+	outline: #3ab6b2 solid 0.2vw ;
+	background-color: #3ab6b2;
+}
+
+
+
+
+
+  }
+
+
+
+@media only screen and (max-width: 510px) {
+
+
+
+       
+.arrow-parrent1 {
+	width: 100%;
+	height: 42vw;
+	position: absolute;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+
+.arrow-parrent2 {
+	width: 100%;
+	height: 42vw;
+	position: absolute;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.baner1-cont {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.arrow1 {
+	display: none;
+	width: 3.5%;
+	height: 5.5vw;
+	z-index: 2;
+}
+
+
+.baner1 {
+	display: none;
+	width: 100%;
+}
+
+.baner2 {
+	display: block;
+	width: 100%;
+}
+
+.ban1-title {
+	color: white;
+	font-family: Poppins;
+	position: absolute;
+	top: 18vw;
+	font-size: 7vw;
+	font-weight: 100;
+}
+
+.ban1-title2 {
+	color: white;
+	font-weight: 600;
+	font-family: Poppins;
+	position: absolute;
+	top: 35vw;
+	font-size: 9vw;
+}
+
+.ban1-para {
+	color: #ffffffa4;
+	font-weight: 900;
+	font-family: Poppins;
+	position: absolute;
+	top: 50vw;
+	font-size: 2vw;
+}
+
+.read {
+		position: absolute;
+	top: 58vw;
+}
+
+.read-more0{
+	color: white;
+	text-align: center;
+	padding-top: 1.8vw;
+	font-size: 3vw;
+	box-sizing: border-box;
+	height: 7vw;
+	width: 25vw;
+	border: solid;
+	border-width: 0.1vw;
+	border-color: white;
+	outline: #3ab6b2 solid 0.2vw ;
+	background-color: #3ab6b2;
+}
+
+
+
+
+
+  }
